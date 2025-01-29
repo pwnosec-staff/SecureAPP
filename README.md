@@ -95,8 +95,11 @@ Aplikasi dioptimalkan untuk berbagai ukuran layar:
 - Indikator performa
 
 ## 🔄 Status Proyek
-
 Proyek ini dalam pengembangan aktif dengan pembaruan berkala untuk menambahkan fitur baru dan peningkatan keamanan.
+
+![screenshot](images/dashboard.png)
+![screenshot](images/login.png)
+
 
 ## 📝 Catatan Pengembangan
 
